@@ -8,4 +8,4 @@
 
 Having trouble with Pages? 
 
-[Stuur een e-mail!: ](contact.md)
+[Stuur een e-mail!](contact.md)
